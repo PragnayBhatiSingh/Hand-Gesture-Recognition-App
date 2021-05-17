@@ -6,6 +6,7 @@ body
 span
 {
   font-size: 35px;
+  margin-right: 15px;
 }
 #camera , #result
 {
@@ -28,7 +29,7 @@ span
 
 .heading{
   font-size: 25px;
-  letter-spacing: 9px;
+  letter-spacing: 5px;
   border-radius: 20px;
 }
 #btn-tksnp , #btn-pdtsnp   {
